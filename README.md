@@ -91,7 +91,7 @@ This 50-day program helped me build SQL skills from fundamentals to advanced, an
 - Analytical Dashboards  
 - Business Metrics  
 - Data Exploration  
-- Interview-Style SQL Problem
+- Interview-Style SQL Problems
 ---
 
 
